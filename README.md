@@ -1,5 +1,5 @@
 <!-- [![](./alnplogo.png)](https://www.alnp.pw/)-->
-# Full Stack JS Dev
+# 
 
 <!-- |   Languages  |  Technologies    |
 | :------------: |:---------------:|
